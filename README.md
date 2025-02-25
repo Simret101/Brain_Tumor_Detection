@@ -1,10 +1,10 @@
 # Brain Tumor Detection using Python and Scikit-Learn
 
-## Introduction
+
 ![Image 1](./brain_tumor/assets/76b10de31136e3f7f83d600caeaca283.jpg)
 ![Image 2](./brain_tumor/assets/096289ca35ce42219bbc71161463aa1a.jpg)
 
-
+## Introduction
 The project is an exploration of brain tumor detection using Python and machine learning techniques. The project leverages **Scikit-Learn, OpenCV, NumPy, and Matplotlib** to analyze MRI scans and predict the presence of brain tumors.
 
 ## Significance
