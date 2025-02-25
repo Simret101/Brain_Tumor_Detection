@@ -1,4 +1,4 @@
-# Brain Tumor Detection using Python and Scikit-Learn
+# Brain Tumor Detection
 
 <img src="./brain_tumor/assets/76b10de31136e3f7f83d600caeaca283.jpg" width="500" alt="Image 1" />
 <img src="./brain_tumor/assets/096289ca35ce42219bbc71161463aa1a.jpg" width="500" alt="Image 2" />
