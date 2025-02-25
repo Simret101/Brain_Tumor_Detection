@@ -1,8 +1,7 @@
 # Brain Tumor Detection using Python and Scikit-Learn
 
-
-![Image 1](./brain_tumor/assets/76b10de31136e3f7f83d600caeaca283.jpg)
-![Image 2](./brain_tumor/assets/096289ca35ce42219bbc71161463aa1a.jpg)
+<img src="./brain_tumor/assets/76b10de31136e3f7f83d600caeaca283.jpg" width="500" alt="Image 1" />
+<img src="./brain_tumor/assets/096289ca35ce42219bbc71161463aa1a.jpg" width="500" alt="Image 2" />
 
 ## Introduction
 The project is an exploration of brain tumor detection using Python and machine learning techniques. The project leverages **Scikit-Learn, OpenCV, NumPy, and Matplotlib** to analyze MRI scans and predict the presence of brain tumors.
@@ -31,8 +30,6 @@ To run this project, ensure you have the following dependencies installed:
 ## Dataset
 
 The dataset can be found in the repository or downloaded from [Kaggle](https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri).
-
-
 
 ## Steps Involved
 
